@@ -3,7 +3,6 @@ import image1 from "@/assets/shri.jfif";
 import image2 from "@/assets/ritika.png";
 import image3 from "@/assets/ilyas.jpg";
 import image4 from "@/assets/manas.jfif";
-import image5 from "@/assets/image5.png";
 import image6 from "@/assets/isabella.jpg";
 import { motion } from "framer-motion";
 import HText from "@/shared/HText";
@@ -36,7 +35,7 @@ const classes: Array<ClassType> = [
     name: "Mary Lacey",
     description:
       "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
-    image: image5,
+    image: image3,
   },
   {
     name: "Isabella Grandic",
